@@ -18,7 +18,7 @@ Tkinter (comes pre-installed with Python)
 
 How to Run
 Clone this repository:
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/atakantatar/BMICalculator.git
 
 Navigate to the project folder and run:
 python bmi_calculator.py
